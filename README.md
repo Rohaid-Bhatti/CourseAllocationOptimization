@@ -34,7 +34,7 @@ pip install pandas numpy pulp matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/r41ss4/CourseAllocationOptimization.git
+   git clone https://github.com/Rohaid-Bhatti/CourseAllocationOptimization.git
    ```
 2. Open the `opt_sim_v3.ipynb` notebook in Jupyter or Google Colab.
 3. Ensure the `case_abc.xlsx` file is accessible (it is hosted in this repository and loaded directly via a raw GitHub link in the notebook).
